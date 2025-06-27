@@ -1,0 +1,141 @@
+<!--
+  ~ Copyright (c) 2024 Ashish Yadav <mailtoashish693@gmail.com>
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">Ọc Ọc Ọc</string>
+    <string name="kg_ml">Kg/ml</string>
+    <string name="settings">Cài đặt</string>
+    <string name="go_back">Quay lại màn hình trước</string>
+    <string name="setting_app_version_title">Phiên bản ứng dụng</string>
+    <string name="add_water">Thêm nước</string>
+    <string name="today_record">Bản ghi hôm nay</string>
+    <string name="delete">Xóa</string>
+    <string name="edit">Chỉnh sửa</string>
+    <string name="enter_details">Nhập chi tiết</string>
+    <string name="wake_up_time">Thời gian thức dậy</string>
+    <string name="sleep_time">Thời gian ngủ</string>
+    <string name="select_wake_up_time">Chọn thời gian thức dậy</string>
+    <string name="select_sleep_time">Chọn thời gian ngủ</string>
+    <string name="select_unit">Chọn đơn vị</string>
+    <string name="select_gender">Chọn giới tính</string>
+    <string name="gender">Giới tính</string>
+    <string name="units">Đơn vị</string>
+    <string name="proceed">Tiếp tục</string>
+    <string name="water_amount">Lượng nước (%s)</string>
+    <string name="enter_your_water_intake">Nhập lượng nước của bạn bằng %s</string>
+    <string name="done">Xong</string>
+    <string name="close">Đóng</string>
+    <string name="change_the_water_intake_amount">Thay đổi lượng nước uống</string>
+    <string name="drink_target">Mục tiêu uống</string>
+    <string name="no_water_consumed">Hôm nay không có nước nào được tiêu thụ</string>
+    <string name="amount">Số lượng</string>
+    <string name="edit_drunk_amount">Chỉnh sửa lượng nước đã uống</string>
+    <string name="dismiss">Bỏ qua</string>
+    <string name="confirm">Xác nhận</string>
+    <string name="clear">Xóa</string>
+    <string name="privacy_policy">Chính sách bảo mật</string>
+    <string name="name">Tên</string>
+    <string name="height">Chiều cao</string>
+    <string name="weight">Cân nặng</string>
+    <string name="notification">Thông báo</string>
+    <string name="edit_your_name">Chỉnh sửa tên của bạn</string>
+    <string name="water">Nước</string>
+    <string name="notification_description">Để nhắc nhở uống nước</string>
+    <string name="reminder_notification">Thông báo nhắc nhở</string>
+    <string name="notification_permission_message">Cấp quyền thông báo để nhận lời nhắc kịp thời và giữ đủ nước một cách dễ dàng với ứng dụng của chúng tôi.</string>
+    <string name="notification_title">Đến giờ uống nước rồi!</string>
+    <string name="notification_message">Hãy theo dõi quá trình hydrat hóa của bạn! Đã đến lúc nghỉ giải lao uống nước nhanh. Hãy để đồ giải khát luôn chảy!</string>
+    <string name="drunk">Đã uống</string>
+    <string name="cd_notifications_enabled">Đã bật thông báo</string>
+    <string name="cd_notifications_disabled">Đã tắt thông báo</string>
+    <string name="setting_enable_notifications">Bật thông báo</string>
+    <string name="notification_disable_message">Tắt thông báo sẽ ngăn lời nhắc xuất hiện. Bạn có chắc chắn muốn tiếp tục không?</string>
+    <string name="disable_notifications">Tắt thông báo</string>
+    <string name="change_your_height">Thay đổi chiều cao của bạn (cm)</string>
+    <string name="change_your_weight">Thay đổi cân nặng của bạn</string>
+    <string name="privacy">Sự riêng tư</string>
+    <string name="privacy_policy_message">Chính sách bảo mật của chúng tôi phản ánh cam kết của chúng tôi về tính minh bạch và tôn trọng dữ liệu của bạn.\nChúng tôi không thu thập bất kỳ thông tin cá nhân nào từ người dùng của mình, đảm bảo quyền riêng tư của bạn luôn là điều tối quan trọng. Bạn có toàn quyền kiểm soát dữ liệu của mình và chúng tôi duy trì các biện pháp bảo mật nghiêm ngặt để bảo vệ dữ liệu đó. Sự tin tưởng của bạn là ưu tiên hàng đầu của chúng tôi.</string>
+    <string name="app_privacy_policy">Chính sách bảo mật của ứng dụng Ọc Ọc Ọc</string>
+    <string name="change_your_drink_target">Thay đổi mục tiêu uống của bạn</string>
+    <string name="unit_values">    </string>
+    <string name="total_daily_water_intake">Nhập tổng lượng nước uống hàng ngày</string>
+    <string name="height_value">%s cm</string>
+    <string name="change_notification_interval">Thay đổi khoảng thời gian thông báo</string>
+    <string name="hrs">%s giờ</string>
+    <string name="notification_interval">Khoảng thời gian thông báo</string>
+    <string name="custom_interval_message">Tùy chỉnh khoảng thời gian nhắc nhở uống nước của bạn! Bạn có thể điều chỉnh nó cho phù hợp với nhu cầu của mình.</string>
+    <string name="onbaording_meesage">Hãy bắt đầu thói quen lành mạnh của bạn với lời nhắc uống nước được cá nhân hóa. Đặt khoảng thời gian nhắc nhở lý tưởng của bạn và hãy cùng nhau giữ đủ nước!</string>
+    <string name="onboarding_title">Chào mừng bạn đến với hành trình hydrat hóa của mình!</string>
+    <string name="custom_reminders">Lời nhắc tùy chỉnh</string>
+    <string name="edit_notification">Chỉnh sửa thông báo</string>
+    <string name="personal">Cá nhân</string>
+    <string name="sleep_cycle">Chu kỳ ngủ</string>
+    <string name="others">Khác</string>
+    <string name="support">Hỗ trợ</string>
+    <string-array name="weighing_values">
+        <item>Kg</item>
+        <item>Lbs</item>
+    </string-array>
+    <string-array name="measurement_values">
+        <item>ml</item>
+        <item>oz</item>
+    </string-array>
+
+    <string-array name="water_reminder_titles">
+        <item>Giữ đủ nước</item>
+        <item>Cảnh báo hydrat hóa</item>
+        <item>Uống đi!</item>
+        <item>Giờ uống nước</item>
+        <item>Giữ sảng khoái</item>
+        <item>Nhắc nhở cơn khát</item>
+        <item>Giữ đủ nước</item>
+        <item>Làm mới bản thân</item>
+        <item>Nghỉ giải lao uống nước</item>
+        <item>Uống nước ngay</item>
+        <item>Nhắc nhở chất lỏng</item>
+        <item>Giữ đủ nước</item>
+        <item>Báo thức H2O</item>
+        <item>Cảnh báo hydrat hóa</item>
+        <item>Nhắc nhở uống nước</item>
+        <item>Giải khát</item>
+        <item>Thời gian hydrat hóa</item>
+        <item>Cuộc gọi giải khát</item>
+        <item>Thời gian chất lỏng</item>
+        <item>Giữ tươi mới</item>
+    </string-array>
+    <string-array name="water_reminder_messages">
+        <item>Giữ đủ nước, giữ sức khỏe!</item>
+        <item>Giữ bình tĩnh và uống nước.</item>
+        <item>Mỗi lần một ngụm.</item>
+        <item>Nước: thần dược của sự sống!</item>
+        <item>Đừng quên uống nước!</item>
+        <item>Uống nước hoặc hối tiếc sau này.</item>
+        <item>Nước là người bạn tốt nhất của bạn.</item>
+        <item>Giữ đủ nước, cảm thấy tuyệt vời!</item>
+        <item>Tiếp tục uống, tiếp tục tỏa sáng.</item>
+        <item>Uống nước, nó tốt cho bạn!</item>
+        <item>Giữ sảng khoái, giữ tập trung.</item>
+        <item>Nước - món quà của thiên nhiên dành cho bạn.</item>
+        <item>Hydrat hóa là chìa khóa!</item>
+        <item>Giữ bình tĩnh và nhấm nháp.</item>
+        <item>Mỗi giọt đều có giá trị.</item>
+        <item>Uống nhiều nước hơn, cảm ơn bản thân sau này.</item>
+        <item>Trạm hydrat hóa sắp ra mắt!</item>
+        <item>Nước là nguồn sống.</item>
+        <item>Giữ đủ nước, giữ sức mạnh!</item>
+        <item>Hãy giữ những chai nước đó tiện dụng!</item>
+    </string-array>
+</resources>
